@@ -1,0 +1,564 @@
+{
+	"info": {
+		"_postman_id": "6add6a09-8395-4096-b9ed-6fe1eaf20108",
+		"name": "List of forms ",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26515196",
+		"_collection_link": "https://winter-capsule-961230.postman.co/workspace/Sustainion-2~908ebb80-88a7-4100-bf8d-14ef0a41f67c/collection/26515196-6add6a09-8395-4096-b9ed-6fe1eaf20108?action=share&creator=26515196&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "List electricity consumption Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/electricity_consumptions",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"electricity_consumptions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "antioxidants_consumptions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/antioxidants_consumptions",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"antioxidants_consumptions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "gas_consumptions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/gas_consumptions",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"gas_consumptions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "volumetric_fuel_consumptions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/volumetric_fuel_consumptions",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"volumetric_fuel_consumptions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "weighted_fuel_consumptions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/weighted_fuel_consumptions",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"weighted_fuel_consumptions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "detergent_consumptions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/detergent_consumptions",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"detergent_consumptions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "commutes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/commutes",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"commutes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "customer_safety_records",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/customer_safety_records",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"customer_safety_records"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "improvements",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/improvements",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"improvements"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "steam_consumptions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/steam_consumptions",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"steam_consumptions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "lubricant_consumptions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/lubricant_consumptions",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"lubricant_consumptions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "refrigerant_consumptions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/refrigerant_consumptions",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"refrigerant_consumptions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "material_consumptions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/material_consumptions",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"material_consumptions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "water_consumptions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/water_consumptions",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"water_consumptions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "staff_records",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/staff_records",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"staff_records"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "work_safety_records",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/work_safety_records",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"work_safety_records"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "operational_risks",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/operational_risks",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"operational_risks"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "fines",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/fields/1/fines",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"fields",
+						"1",
+						"fines"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "audits",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/audits",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"audits"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "air_emissions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/air_emissions",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"air_emissions"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "log_bases",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/log_bases",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"log_bases"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "vehicle_trackings",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/vehicle_trackings",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"vehicle_trackings"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "countries",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/countries",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"countries"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "currencies",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/currencies",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"currencies"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "material_types",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/material_types",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"material_types"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "refrigerant_types",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/refrigerant_types",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"refrigerant_types"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "fuel_types",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/fuel_types",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"fuel_types"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "units",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/units",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"units"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Water Measurement",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/list/1/Water Measurement",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"list",
+						"1",
+						"Water Measurement"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
